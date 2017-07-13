@@ -1,0 +1,15 @@
+[main] DEBUG Client 10/06/2013 18:26:07 - This is debug message
+[main] INFO  Client 10/06/2013 18:26:07 - This is info message
+[main] WARN  Client 10/06/2013 18:26:07 - This is warn message
+[main] FATAL Client 10/06/2013 18:26:07 - This is fatal message
+[main] ERROR Client 10/06/2013 18:26:07 - This is error message
+[main] DEBUG Client 10/06/2013 19:24:52 - This is debug message
+[main] INFO  Client 10/06/2013 19:24:52 - This is info message
+[main] WARN  Client 10/06/2013 19:24:52 - This is warn message
+[main] FATAL Client 10/06/2013 19:24:52 - This is fatal message
+[main] ERROR Client 10/06/2013 19:24:52 - This is error message
+[main] DEBUG Client 10/06/2013 19:33:05 - This is debug message
+[main] INFO  Client 10/06/2013 19:33:05 - This is info message
+[main] WARN  Client 10/06/2013 19:33:05 - This is warn message
+[main] FATAL Client 10/06/2013 19:33:05 - This is fatal message
+[main] ERROR Client 10/06/2013 19:33:05 - This is error message
